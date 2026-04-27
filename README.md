@@ -1,6 +1,5 @@
 # BookStoreWebsite
-
-
+![image alt] (https://github.com/deepakkumarver58382-collab/BookStoreWebsite/blob/1c95d4c667aa811b5a3d0224fbd04c6297620828/BookStoreWebsite.jpeg)
 A full-stack web application designed to manage book inventory and user interactions. This project demonstrates CRUD operations, state management, and a clean separation between frontend and backend architectures.
 
 ## 🚀 Features
